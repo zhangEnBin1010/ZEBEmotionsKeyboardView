@@ -1,0 +1,6 @@
+target :ZEBEmotionsKeyboard do
+
+
+pod 'Masonry'
+pod 'YYImage'
+end
